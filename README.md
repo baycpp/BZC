@@ -3,6 +3,7 @@
 
 # Kullanımı
 pip install -r requirements.txt
+
 python3 bzc.py
 
 # Proje Hakkında
