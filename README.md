@@ -11,4 +11,4 @@ Proje İsmi: BZC
 
 Proje açıklaması:
 
-Bay Zip Cracker programı, şifresini unuttuğunuz ZIP dosyalarına isteğe göre wordlist veya kombinasyon kullanarak kırmaya çalışan, python ile yazılmış bir araçtır.
+Bay Zip Cracker programı, şifresini unuttuğunuz ZIP dosyalarını isteğe göre wordlist veya kombinasyon kullanarak kırmaya çalışan, python ile yazılmış bir araçtır.
