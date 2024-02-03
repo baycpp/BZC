@@ -3,12 +3,7 @@
 
 # Kullanımı
 pip install -r requirements.txt
-
-python3 bzc.py
+python3 bzc.py -w [wordlist dosyası] -f [zip dosyası]
 
 # Proje Hakkında
-Proje İsmi: BZC
-
-Proje açıklaması:
-
-Bay Zip Cracker programı, şifresini unuttuğunuz ZIP dosyalarını isteğe göre wordlist veya kombinasyon kullanarak kırmaya çalışan, python ile yazılmış bir araçtır.
+Bay Zip Cracker, şifresini unuttuğunuz ZIP dosyalarını girmiş olduğunuz wordlist dosyası ile kırmaya çalışan, python kullanılarak yazılmış bir araçtır.
